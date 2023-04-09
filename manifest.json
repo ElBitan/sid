@@ -1,11 +1,11 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "histoire pour chabbath ",
-    "short_name": "Histoire-Box ",
+    "name": "web-sidour-tfilla",
+    "short_name": "web-sidour ",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "transparent",
-    "description": "histoire pour chabbath .",
+    "description": "web-sidour-tfilla .",
     "icons": [{
       "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
       "sizes": "48x48",
