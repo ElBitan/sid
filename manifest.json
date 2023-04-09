@@ -1,0 +1,38 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "histoire pour chabbath ",
+    "short_name": "Histoire-Box ",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "transparent",
+    "description": "histoire pour chabbath .",
+    "icons": [{
+      "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    }, {
+      "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
+      "sizes": "72x72",
+      "type": "image/jpg"
+    }, {
+      "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    }, {
+      "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    }, {
+      "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
+      "sizes": "168x168",
+      "type": "image/jpg"
+    }, {
+      "src": "https://www.geula.fm/wp-content/uploads/2013/04/iShtik-icon-Small.png",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }],
+    "related_applications": [{
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+    }]
+  }

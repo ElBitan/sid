@@ -1,0 +1,32 @@
+.tita{
+    text-align: center;
+    margin-top: -10px;
+    background-image: linear-gradient(45deg ,rgba(128, 128, 128, 0.548),rgba(0, 0, 0, 0.295),rgba(255, 250, 250, 0.966));
+    border:black 10px solid ;
+    cursor: pointer;
+}
+.tita:hover{
+  margin-top: -10px;
+   background-image: linear-gradient(45deg,red,green,white);
+   border:red 10px solid ;
+   color: beige;
+}
+.lien{
+    background-image: linear-gradient(45deg ,rgba(128, 128, 128, 0.548),rgba(0, 0, 0, 0.295),rgba(255, 250, 250, 0.966));
+    border:black 10px solid ;
+    font-size: 30px;
+    font-weight: 500;
+}
+.lien:hover{
+    margin-top: -10px;
+     background-image: linear-gradient(45deg,red,green,white);
+     border:red 10px solid ;
+  }
+.leslien a{
+    text-decoration: none;
+    color:black;
+}
+.leslien a:hover{
+    color:beige;
+}
+.leslien{text-align: center;}
